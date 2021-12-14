@@ -102,5 +102,4 @@ Dan boot server dengan menjalankan:
 
 `php -S localhost:8080 -t public/`
 
-> Perhatikan bahwa kerangka kerja tidak digunakan untuk proyek nyata.
-> Dibangun untuk memahami cara kerja kerangka kerja populer dengan cara yang sederhana!
+
