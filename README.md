@@ -1,8 +1,4 @@
-##Perkenalan
-
-Kerangka kerja PHP mini yang dibangun dari awal mengikuti standar PSR terbaru.
-
-Kerangka kerja mencakup konsep-konsep seperti:
+Framework mencakup konsep-konsep seperti:
 
 ### Routing
 
